@@ -1,1 +1,1 @@
-# Disaster-Reporting-System
+# DisasterManager
